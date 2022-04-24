@@ -18,9 +18,9 @@ public class mysql {
     private static Connection con;
     // Declaramos los datos de conexion a la bd
     private static final String driver="com.mysql.jdbc.Driver";
-    private static final String user="root";
-    private static final String pass="";
-    private static final String url="jdbc:mysql://localhost:3306/drogueriaudes";
+    private static final String user="epiz_31435420";
+    private static final String pass="037XGBdoCENlE";
+    private static final String url="jdbc:mysql://sql208.epizy.com/drogueriaudes";
     
     
     
